@@ -1,0 +1,9 @@
+com.movies.battle
+com.movies.battle.controllers.game
+com.movies.battle.controllers.movie
+com.movies.battle.controllers.question
+com.movies.battle.controllers.user
+com.movies.battle.model
+com.movies.battle.repository
+com.movies.battle.services
+com.movies.battle.test.controllers
